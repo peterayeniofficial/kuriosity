@@ -1,2 +1,0 @@
-# kuriosity
-Begin app
